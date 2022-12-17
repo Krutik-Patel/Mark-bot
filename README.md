@@ -44,6 +44,7 @@ iv)	To access local market place, there are 2 commands-
 •	“$market local search”- this command searches for the product name in the inventory. For example- “$market local search --name”.
 •	The inventory has all the items available.
 
-#### Team Members:
-##### Krutik Patel
-##### Aditya Garg
+### Team Members:
+
+#### Krutik Patel
+#### Aditya Garg
