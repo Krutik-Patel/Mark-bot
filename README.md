@@ -14,10 +14,10 @@ We built our project, using ideas of web scraping and database. For this we used
 "$compare"- compares the products entered by user, and gives appropriate result. For example, “$compare iPhone 13 vs iPhone 12” gives the result, comparing the 2 phones.
 "$market"- which should print the way to progress ahead; for example, if you give command of the type “$market flipkart rubik’s cube”, it should show the result of all the rubik’s cubes available on Flipkart. Similarly, we can implement the same in Amazon, Snapdeal and Pepperfry, and access local market.
   commands in "$market"- 
-  1) "$market flipkart product"- searches for the product in Flipkart
-  2) "$market amazon product"- searches for the product in amazon
-  3) "$market snapdeal product"- searches for the product in snapdeal
-  4) "$market pepperfry product"- searches for the product in pepperfry
+  1) "$market flipkart product"- searches for the product in Flipkart.
+  2) "$market amazon product"- searches for the product in amazon.
+  3) "$market snapdeal product"- searches for the product in snapdeal.
+  4) "$market pepperfry product"- searches for the product in pepperfry.
   5) "$market flipkart ~a"- opens the main flipkart website. Similar applies to Amazon, Snapdeal, Pepperfry.
   6) "$market flipkart ~x"- opens the deals of the day page. Similar applies to Amazon which opens the same.
   7) “$market local add” – this command adds the product into the inventory. The user has to specify the product info after this command. For example- “$market local add --product--description--seller--price—image http link--thumbnail http link”. Here the image and thumbnail have to be http links. Make sure to add "--" between the terms.
@@ -44,3 +44,6 @@ iv)	To access local market place, there are 2 commands-
 •	“$market local search”- this command searches for the product name in the inventory. For example- “$market local search --name”.
 •	The inventory has all the items available.
 
+#### Team Members:
+##### Krutik Patel
+##### Aditya Garg
